@@ -43,6 +43,7 @@ buttons.forEach((button) => {
 
             humanScore = 0;
             computerScore = 0;
+            round = 0;
 
             return;
         }
